@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="os" value="windows" />
+    <parameter name="browser" value="chrome" />
+    <test verbose="2" preserve-order="true"
+          name="D:/1_Cognizant Prep/Opencart/src/test/java/testCases/TC_002_LoginTest.java">
+        <classes>
+            <class name="testCases.TC_002_LoginTest">
+                <methods>
+                    <include name="verify_login"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

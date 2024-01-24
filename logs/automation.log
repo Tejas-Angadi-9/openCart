@@ -1,0 +1,11 @@
+06:47:15.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:47:15.562 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed....
+06:47:15.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** FINISHED TC_001_AccountRegistrationTest ***
+06:47:17.177 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:47:17.177 [main] DEBUG testCases.TC_002_LoginTest - Capturing application debug logs
+06:47:17.540 [main] INFO  testCases.TC_002_LoginTest - Clicked on myaccount link
+06:47:17.787 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link
+06:47:17.788 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password
+06:47:18.151 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+06:47:21.181 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+06:47:21.182 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T06:45:58 IST" name="All Test Suite" finished-at="2024-01-24T06:46:04 IST" duration-ms="6336">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T06:45:58 IST" name="D:/1_Cognizant Prep/Opencart/src/test/java/testCases/TC_002_LoginTest.java" finished-at="2024-01-24T06:46:04 IST" duration-ms="6336">
+      <class name="testCases.TC_002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@2ea227af]" started-at="2024-01-24T06:45:58 IST" name="setup" finished-at="2024-01-24T06:46:00 IST" duration-ms="2173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.TC_002_LoginTest@2ea227af]" started-at="2024-01-24T06:46:00 IST" name="verify_login" finished-at="2024-01-24T06:46:04 IST" duration-ms="4053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@2ea227af]" started-at="2024-01-24T06:46:04 IST" name="tearDown" finished-at="2024-01-24T06:46:04 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTest -->
+    </test> <!-- D:/1_Cognizant Prep/Opencart/src/test/java/testCases/TC_002_LoginTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
